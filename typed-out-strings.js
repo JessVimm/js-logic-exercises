@@ -1,3 +1,7 @@
+// Given two strings str1 and str2, return true if they are equal
+// when both are typed into empty text editors.
+// '#' means a backspace character.
+
 const str1 = "b#c#b"
 const str2 = "b##c#b"
 
